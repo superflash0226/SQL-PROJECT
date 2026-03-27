@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/superflash0226/SQL-Library-Management-Project-/blob/main/library.jpg)
+![Library_project](https://github.com/superflash0226/SQL-PROJECT/blob/main/SQL-P2/library.jpg)
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ER Diagram](https://github.com/superflash0226/SQL-Library-Management-Project-/raw/main/ER%20Diagram.png)
+![ER Diagram](https://github.com/superflash0226/SQL-PROJECT/blob/main/SQL-P2/ER%20Diagram.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
